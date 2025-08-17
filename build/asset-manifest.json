@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PaisonMelkish/Photo-shop.git/static/css/main.ccba99f4.css",
+    "main.js": "/PaisonMelkish/Photo-shop.git/static/js/main.4530cbfd.js",
+    "index.html": "/PaisonMelkish/Photo-shop.git/index.html",
+    "main.ccba99f4.css.map": "/PaisonMelkish/Photo-shop.git/static/css/main.ccba99f4.css.map",
+    "main.4530cbfd.js.map": "/PaisonMelkish/Photo-shop.git/static/js/main.4530cbfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccba99f4.css",
+    "static/js/main.4530cbfd.js"
+  ]
+}
